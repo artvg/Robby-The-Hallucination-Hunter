@@ -1,0 +1,756 @@
+qid,model,question,model_answer,latency_ms,status,error
+medquestions-500-0000,gpt-4o-mini,What are the genetic changes related to familial adenomatous polyposis ?,"Familial adenomatous polyposis (FAP) is primarily caused by mutations in the APC gene (Adenomatous Polyposis Coli). These mutations lead to the development of numerous colorectal polyps and an increased risk of colorectal cancer. Other genetic changes may include mutations in genes like MUTYH in cases of MUTYH-associated polyposis (MAP), which is a related condition.",2899,ok,
+medquestions-500-0001,gpt-4o-mini,What are the treatments for Noonan syndrome ?,"Treatment for Noonan syndrome is symptomatic and may include:
+
+1. **Cardiac management**: Monitoring and treating heart defects.
+2. **Growth hormone therapy**: For short stature.
+3. **Hormonal therapy**: For puberty-related issues.
+4. **Surgical interventions**: For structural abnormalities.
+5. **Physical and occupational therapy**: To address developmental delays.
+6. **Regular monitoring**: For associated conditions like hearing loss and vision problems.
+
+Consultation with a multidisciplinary team is often recommended.",3872,ok,
+medquestions-500-0002,gpt-4o-mini,How to diagnose National Hormone and Pituitary Program (NHPP): Information for People Treated with Pituitary Human Growth Hormone (Comprehensive Report) ?,"To diagnose conditions related to the National Hormone and Pituitary Program (NHPP) and treatment with pituitary human growth hormone, a comprehensive evaluation typically includes:
+
+1. **Medical History**: Review of symptoms and treatment history.
+2. **Physical Examination**: Assessment of growth patterns and physical development.
+3. **Hormonal Testing**: Blood tests to measure growth hormone levels and other related hormones.
+4. **Imaging Studies**: MRI or CT scans to evaluate pituitary gland abnormalities.
+5. **Stimulation Tests**: Tests to assess the pituitary gland's ability to produce growth hormone.
+
+Consult a healthcare professional for a tailored diagnostic approach.",2565,ok,
+medquestions-500-0003,gpt-4o-mini,Is Spastic diplegia cerebral palsy inherited ?,"Spastic diplegia cerebral palsy is not typically inherited. It usually results from brain injury or abnormal brain development, often occurring during pregnancy, childbirth, or shortly after birth. Genetic factors may play a role in some cases, but it is not directly inherited in a Mendelian manner.",1500,ok,
+medquestions-500-0004,gpt-4o-mini,Is restless legs syndrome inherited ?,"Yes, restless legs syndrome (RLS) can have a genetic component and may run in families. However, environmental factors can also play a role.",1582,ok,
+medquestions-500-0005,gpt-4o-mini,What are the symptoms of Hall Riggs mental retardation syndrome ?,"Hall Riggs syndrome, also known as Hall-Riggs mental retardation syndrome, is characterized by developmental delays, intellectual disability, and specific physical features. Symptoms may include:
+
+- Intellectual disability
+- Delayed speech and language development
+- Behavioral issues
+- Distinctive facial features (though these can vary)
+- Possible motor skill delays
+
+Consult a healthcare professional for a comprehensive evaluation and diagnosis.",4388,ok,
+medquestions-500-0006,gpt-4o-mini,What is (are) Diagnosis of Diabetes and Prediabetes ?,"Diagnosis of diabetes and prediabetes is typically based on the following tests:
+
+1. **Fasting Plasma Glucose (FPG)**:
+   - Diabetes: FPG ≥ 126 mg/dL (7.0 mmol/L)
+   - Prediabetes: FPG 100-125 mg/dL (5.6-6.9 mmol/L)
+
+2. **Oral Glucose Tolerance Test (OGTT)**:
+   - Diabetes: 2-hour plasma glucose ≥ 200 mg/dL (11.1 mmol/L)
+   - Prediabetes: 2-hour plasma glucose 140-199 mg/dL (7.8-11.0 mmol/L)
+
+3. **Hemoglobin A1c (HbA1c)**:
+   - Diabetes: HbA1c ≥ 6.5%
+   - Prediabetes: HbA1c 5.7-6.4%
+
+4. **Random Plasma Glucose**:
+   - Diabetes: Random plasma glucose ≥ 200 mg/dL (11.1 mmol/L) with symptoms of hyperglycemia.
+
+Diagnosis should be confirmed with repeat testing unless there are clear symptoms of diabetes.",6550,ok,
+medquestions-500-0007,gpt-4o-mini,How to diagnose Nonalcoholic steatohepatitis ?,"Nonalcoholic steatohepatitis (NASH) is diagnosed through a combination of clinical evaluation, imaging studies, and liver biopsy. Key steps include:
+
+1. **Medical History**: Assessing risk factors such as obesity, diabetes, and metabolic syndrome.
+2. **Physical Examination**: Checking for signs of liver disease.
+3. **Blood Tests**: Evaluating liver function (e.g., ALT, AST) and ruling out other liver diseases.
+4. **Imaging**: Ultrasound, CT, or MRI to detect liver fat.
+5. **Liver Biopsy**: The gold standard for confirming NASH and assessing liver inflammation and fibrosis.
+
+Consult a healthcare provider for a comprehensive evaluation.",3106,ok,
+medquestions-500-0008,gpt-4o-mini,What is (are) Teenage Pregnancy ?,"Teenage pregnancy refers to pregnancies occurring in females aged 13 to 19. It often results from unprotected sexual intercourse and can lead to various health, social, and economic challenges for both the mother and child.",1200,ok,
+medquestions-500-0009,gpt-4o-mini,What are the symptoms of Split hand foot malformation ?,"Symptoms of Split Hand Foot Malformation (SHFM) include:
+
+1. Partial or complete absence of fingers or toes.
+2. Fusion of fingers or toes (syndactyly).
+3. Abnormalities in the shape of the hands and feet.
+4. Possible skeletal abnormalities.
+5. Variability in severity among individuals.
+
+Consult a healthcare professional for a comprehensive evaluation.",2200,ok,
+medquestions-500-0010,gpt-4o-mini,What are the treatments for Ovarian small cell carcinoma ?,"Treatment for ovarian small cell carcinoma typically includes:
+
+1. **Surgery**: To remove the tumor and affected tissues.
+2. **Chemotherapy**: Often using a combination of drugs, such as carboplatin and paclitaxel.
+3. **Radiation therapy**: May be used in certain cases.
+4. **Targeted therapy**: Depending on specific characteristics of the tumor.
+
+Consultation with an oncologist is essential for a tailored treatment plan.",2904,ok,
+medquestions-500-0011,gpt-4o-mini,How many people are affected by Kufs disease ?,"Kufs disease is very rare, with an estimated prevalence of fewer than 1 in 100,000 individuals. Exact numbers can vary by population and region.",1254,ok,
+medquestions-500-0012,gpt-4o-mini,What causes Multifocal motor neuropathy ?,"Multifocal motor neuropathy (MMN) is primarily caused by an autoimmune response that targets the peripheral nerves, leading to demyelination. It is often associated with the presence of anti-GM1 antibodies. The exact trigger for this autoimmune response is not well understood, but it may involve genetic and environmental factors.",1613,ok,
+medquestions-500-0013,gpt-4o-mini,What are the symptoms of Karak syndrome ?,"Karak syndrome is characterized by symptoms such as:
+
+1. Fever
+2. Rash
+3. Joint pain
+4. Muscle pain
+5. Fatigue
+6. Headache
+
+It is important to consult a healthcare professional for accurate diagnosis and management.",2994,ok,
+medquestions-500-0014,gpt-4o-mini,How to diagnose Rheumatoid Arthritis ?,"Rheumatoid arthritis (RA) is diagnosed through a combination of:
+
+1. **Medical History**: Assessing symptoms like joint pain, stiffness, and swelling.
+2. **Physical Examination**: Checking for swollen joints and range of motion.
+3. **Blood Tests**: Looking for rheumatoid factor (RF), anti-citrullinated protein antibodies (ACPA), and inflammatory markers (like ESR and CRP).
+4. **Imaging Tests**: X-rays or MRI to assess joint damage.
+
+A rheumatologist typically conducts the diagnosis.",2335,ok,
+medquestions-500-0015,gpt-4o-mini,What are the symptoms of Oculo-cerebral dysplasia ?,"Oculo-cerebral dysplasia may present with symptoms such as:
+
+- Eye abnormalities (e.g., colobomas, strabismus)
+- Developmental delays
+- Intellectual disability
+- Seizures
+- Facial dysmorphism
+- Hearing loss
+
+Symptoms can vary widely among individuals.",1231,ok,
+medquestions-500-0016,gpt-4o-mini,What are the treatments for Kidney Failure: Choosing a Treatment That's Right for You ?,"Treatments for kidney failure include:
+
+1. **Dialysis**: 
+   - Hemodialysis: Blood is filtered through a machine.
+   - Peritoneal dialysis: Uses the lining of the abdomen to filter blood.
+
+2. **Kidney Transplant**: Replacing the failed kidney with a healthy one from a donor.
+
+3. **Conservative Management**: Focuses on managing symptoms and complications without dialysis or transplant, suitable for some patients.
+
+4. **Medications**: To manage blood pressure, anemia, and other related conditions.
+
+Consult a healthcare provider to determine the best option based on individual health needs.",3354,ok,
+medquestions-500-0017,gpt-4o-mini,What are the symptoms of Frias syndrome ?,"Frias syndrome is characterized by a combination of symptoms including:
+
+- Short stature
+- Distinctive facial features (such as a broad forehead, prominent nose, and full lips)
+- Skeletal abnormalities
+- Developmental delays
+- Hearing loss
+- Heart defects
+
+Symptoms can vary among individuals.",1779,ok,
+medquestions-500-0018,gpt-4o-mini,What is (are) Parenting ?,"Parenting refers to the process of raising and nurturing children, encompassing physical, emotional, social, and educational support. It involves providing care, guidance, and discipline to help children develop into healthy, responsible adults.",2470,ok,
+medquestions-500-0019,gpt-4o-mini,How to diagnose Von Willebrand Disease ?,"Von Willebrand Disease (VWD) is diagnosed through a combination of the following tests:
+
+1. **Medical History**: Review of bleeding history and family history.
+2. **Physical Examination**: Check for signs of bleeding or bruising.
+3. **Blood Tests**:
+   - **Von Willebrand Factor (VWF) Antigen**: Measures the amount of VWF in the blood.
+   - **VWF Activity (ristocetin cofactor assay)**: Assesses the function of VWF.
+   - **Factor VIII Activity**: Often measured as it is usually low in VWD.
+4. **Genetic Testing**: May be performed to identify specific mutations.
+
+Consult a healthcare provider for a comprehensive evaluation.",3873,ok,
+medquestions-500-0020,gpt-4o-mini,Is DMD-associated dilated cardiomyopathy inherited ?,"Yes, DMD-associated dilated cardiomyopathy is inherited in an X-linked recessive pattern, primarily affecting males.",1464,ok,
+medquestions-500-0021,gpt-4o-mini,What is (are) Antecubital pterygium ?,Antecubital pterygium refers to a congenital condition characterized by a wing-like fold of skin (pterygium) that extends from the forearm to the elbow (antecubital area). It is often associated with other congenital anomalies and can affect joint movement.,2180,ok,
+medquestions-500-0022,gpt-4o-mini,What are the symptoms of Omenn syndrome ?,"Omenn syndrome symptoms include:
+
+1. Erythroderma (red, scaly skin)
+2. Lymphadenopathy (swollen lymph nodes)
+3. Hepatosplenomegaly (enlarged liver and spleen)
+4. Diarrhea
+5. Failure to thrive
+6. Recurrent infections
+7. Eosinophilia (high eosinophil count in blood)
+
+It is a form of severe combined immunodeficiency (SCID).",2473,ok,
+medquestions-500-0023,gpt-4o-mini,What is (are) Prothrombin thrombophilia ?,"Prothrombin thrombophilia is a genetic condition caused by a mutation in the prothrombin gene (G20210A), leading to increased levels of prothrombin, a protein essential for blood clotting. This condition raises the risk of developing abnormal blood clots, particularly in veins, which can result in conditions like deep vein thrombosis (DVT) or pulmonary embolism (PE).",1884,ok,
+medquestions-500-0024,gpt-4o-mini,How many people are affected by severe congenital neutropenia ?,"Severe congenital neutropenia affects approximately 1 in 200,000 to 1 in 500,000 individuals.",899,ok,
+medquestions-500-0025,gpt-4o-mini,What is (are) choroideremia ?,"Choroideremia is a rare genetic disorder that leads to progressive vision loss due to degeneration of the choroid, retinal pigment epithelium, and photoreceptors in the eye. It is typically inherited in an X-linked recessive pattern, primarily affecting males. Symptoms usually begin in childhood or adolescence and can include night blindness and peripheral vision loss, eventually leading to complete blindness.",2019,ok,
+medquestions-500-0026,gpt-4o-mini,What are the symptoms of Rheumatoid nodulosis ?,"Rheumatoid nodulosis is characterized by the presence of rheumatoid nodules, which are firm, painless lumps that typically develop under the skin, often over pressure points. Other symptoms may include joint pain, swelling, and stiffness associated with rheumatoid arthritis.",1346,ok,
+medquestions-500-0027,gpt-4o-mini,Who is at risk for Cataract? ?,"Individuals at risk for cataracts include:
+
+1. Older adults (age is the primary risk factor).
+2. People with a family history of cataracts.
+3. Those with diabetes.
+4. Individuals who smoke.
+5. Heavy alcohol consumers.
+6. People with prolonged exposure to UV radiation.
+7. Those taking corticosteroid medications long-term.
+8. Individuals with previous eye injuries or surgeries.",2591,ok,
+medquestions-500-0028,gpt-4o-mini,What are the genetic changes related to galactosialidosis ?,"Galactosialidosis is caused by mutations in the **GLB1** gene, which encodes the enzyme beta-galactosidase. This enzyme is involved in the breakdown of certain glycoproteins and glycolipids. Deficiency in this enzyme leads to the accumulation of GM1 gangliosides and other substrates, resulting in the symptoms of the disease.",1661,ok,
+medquestions-500-0029,gpt-4o-mini,"How to prevent Diabetes, Heart Disease, and Stroke ?","To prevent diabetes, heart disease, and stroke, follow these guidelines:
+
+1. **Maintain a Healthy Weight**: Achieve and maintain a healthy body weight through diet and exercise.
+2. **Eat a Balanced Diet**: Focus on whole grains, fruits, vegetables, lean proteins, and healthy fats. Limit sugar, salt, and saturated fats.
+3. **Stay Physically Active**: Aim for at least 150 minutes of moderate aerobic activity per week.
+4. **Avoid Tobacco**: Do not smoke and avoid secondhand smoke.
+5. **Limit Alcohol**: Drink in moderation, if at all.
+6. **Manage Stress**: Practice stress-reducing techniques like mindfulness, yoga, or meditation.
+7. **Regular Health Check-ups**: Monitor blood pressure, cholesterol, and blood sugar levels regularly.
+8. **Get Enough Sleep**: Aim for 7-9 hours of quality sleep per night.
+
+Implementing these lifestyle changes can significantly reduce your risk.",3697,ok,
+medquestions-500-0030,gpt-4o-mini,What is (are) High Blood Cholesterol ?,"High blood cholesterol, or hypercholesterolemia, refers to elevated levels of cholesterol in the blood, which can increase the risk of heart disease and stroke. Cholesterol is a fatty substance produced by the liver and obtained from food. It is categorized into two main types: LDL (low-density lipoprotein, often referred to as ""bad"" cholesterol) and HDL (high-density lipoprotein, known as ""good"" cholesterol). High levels of LDL and low levels of HDL are associated with cardiovascular problems.",3920,ok,
+medquestions-500-0031,gpt-4o-mini,What causes Menetrier disease ?,"Menetrier disease is characterized by the overgrowth of the stomach lining, leading to large gastric folds. The exact cause is unknown, but it is associated with increased levels of transforming growth factor-alpha (TGF-α) and may be linked to chronic inflammation, infections (such as Helicobacter pylori), and certain genetic factors.",1527,ok,
+medquestions-500-0032,gpt-4o-mini,What is (are) anhidrotic ectodermal dysplasia with immune deficiency ?,"Anhidrotic ectodermal dysplasia with immune deficiency is a rare genetic disorder characterized by the absence of sweat glands (anhidrosis), abnormal development of ectodermal structures (such as hair, teeth, and nails), and immune system deficiencies. This condition can lead to increased susceptibility to infections and difficulties in thermoregulation due to the inability to sweat. It is often caused by mutations in genes involved in ectodermal development and immune function.",2526,ok,
+medquestions-500-0033,gpt-4o-mini,What are the treatments for Maffucci syndrome ?,"Treatment for Maffucci syndrome focuses on managing symptoms and complications. This may include:
+
+1. **Surgical intervention**: Removal of tumors or vascular malformations.
+2. **Monitoring**: Regular imaging to detect potential malignancies.
+3. **Pain management**: Medications for pain relief.
+4. **Physical therapy**: To improve mobility and function.
+5. **Genetic counseling**: For affected individuals and families.
+
+There is no cure for Maffucci syndrome, so treatment is individualized based on symptoms.",2606,ok,
+medquestions-500-0034,gpt-4o-mini,Is Angelman syndrome inherited ?,"No, Angelman syndrome is typically not inherited. It usually results from a deletion or mutation of the UBE3A gene on chromosome 15, which occurs sporadically.",1573,ok,
+medquestions-500-0035,gpt-4o-mini,What is (are) Hermansky-Pudlak syndrome ?,"Hermansky-Pudlak syndrome is a rare genetic disorder characterized by albinism, visual impairment, and a bleeding tendency due to a defect in platelet function. It is associated with lysosomal storage issues and can also involve pulmonary fibrosis and other organ complications.",1296,ok,
+medquestions-500-0036,gpt-4o-mini,What are the symptoms of Fowler's syndrome ?,"Fowler's syndrome is characterized by urinary retention, often accompanied by a weak urinary stream, difficulty initiating urination, and sometimes overflow incontinence. It may also involve pelvic pain and bladder distension.",1003,ok,
+medquestions-500-0037,gpt-4o-mini,How to diagnose Thrombocytopenia ?,"Thrombocytopenia is diagnosed through:
+
+1. **Complete Blood Count (CBC)**: To measure platelet levels.
+2. **Medical History**: Assessing symptoms and potential causes.
+3. **Physical Examination**: Checking for signs of bleeding or bruising.
+4. **Additional Tests**: Bone marrow biopsy, peripheral blood smear, or specific tests for underlying conditions if needed. 
+
+Consult a healthcare provider for a comprehensive evaluation.",2018,ok,
+medquestions-500-0038,gpt-4o-mini,What is (are) Learning Disabilities ?,"Learning disabilities are neurological disorders that affect the brain's ability to receive, process, and respond to information. They can impact skills such as reading, writing, math, and reasoning, despite having average or above-average intelligence. Common types include dyslexia (reading), dysgraphia (writing), and dyscalculia (math).",1611,ok,
+medquestions-500-0039,gpt-4o-mini,What are the genetic changes related to amelogenesis imperfecta ?,"Amelogenesis imperfecta is primarily associated with mutations in genes involved in enamel formation. Key genes include:
+
+1. **AMELX** - Amelogenin gene, mutations can lead to X-linked forms.
+2. **ENAM** - Enamelin gene, mutations affect enamel matrix.
+3. **MMP20** - Matrix metalloproteinase 20, involved in enamel maturation.
+4. **KLK4** - Kallikrein-related peptidase 4, also plays a role in enamel maturation.
+
+These genetic changes disrupt the normal development and mineralization of enamel, leading to the characteristic dental defects.",2865,ok,
+medquestions-500-0040,gpt-4o-mini,What are the symptoms of Jones syndrome ?,"Jones syndrome, also known as oculodentodigital dysplasia, is characterized by symptoms such as:
+
+- Ocular abnormalities (e.g., colobomas)
+- Dental anomalies (e.g., missing teeth, malformed teeth)
+- Digital abnormalities (e.g., syndactyly, brachydactyly)
+- Hearing loss
+- Skin changes (e.g., palmoplantar keratoderma)
+
+Consult a healthcare professional for a comprehensive evaluation.",2338,ok,
+medquestions-500-0041,gpt-4o-mini,What is (are) Huntington disease ?,"Huntington's disease is a genetic neurodegenerative disorder characterized by progressive motor dysfunction, cognitive decline, and psychiatric symptoms. It is caused by a mutation in the HTT gene, leading to the production of an abnormal protein that damages brain cells, particularly in the basal ganglia. Symptoms typically appear in mid-adulthood and worsen over time.",1773,ok,
+medquestions-500-0042,gpt-4o-mini,What are the treatments for CHARGE syndrome ?,"Treatment for CHARGE syndrome is multidisciplinary and may include:
+
+1. **Surgical Interventions**: For congenital heart defects, ear abnormalities, and other structural issues.
+2. **Hearing Aids or Cochlear Implants**: For hearing loss management.
+3. **Speech and Language Therapy**: To address communication challenges.
+4. **Occupational and Physical Therapy**: To support developmental and motor skills.
+5. **Vision Support**: For visual impairments.
+6. **Regular Monitoring**: For associated health issues, such as growth and endocrine problems.
+
+Management is tailored to the individual's specific needs and symptoms.",2473,ok,
+medquestions-500-0043,gpt-4o-mini,What are the treatments for Spinal Cord Infarction ?,"Treatment for spinal cord infarction typically includes:
+
+1. **Supportive Care**: Stabilization of the patient, including monitoring vital signs and neurological status.
+2. **Medications**: Corticosteroids to reduce inflammation, anticoagulants to prevent further clotting, and pain management.
+3. **Rehabilitation**: Physical therapy and occupational therapy to improve mobility and function.
+4. **Surgery**: In some cases, surgical intervention may be necessary to relieve pressure or address underlying vascular issues.
+
+Early intervention is crucial for better outcomes.",2804,ok,
+medquestions-500-0044,gpt-4o-mini,What are the treatments for abetalipoproteinemia ?,"Treatment for abetalipoproteinemia primarily includes:
+
+1. **Dietary Management**: A low-fat diet supplemented with medium-chain triglycerides (MCTs) to provide essential fatty acids and calories.
+2. **Vitamin Supplementation**: High doses of fat-soluble vitamins (A, D, E, and K) to address deficiencies.
+3. **Supportive Care**: Management of symptoms and complications, such as neurological issues or fat malabsorption.
+
+Regular monitoring by a healthcare provider is essential.",2115,ok,
+medquestions-500-0045,gpt-4o-mini,What are the treatments for What I need to know about Hirschsprung Disease ?,"Hirschsprung disease is primarily treated through surgery. The main treatment options include:
+
+1. **Surgical Resection**: The affected segment of the colon (where nerve cells are missing) is removed, and the healthy part is connected to the rectum.
+2. **Colostomy**: In some cases, a temporary colostomy may be performed to divert stool while the child grows and prepares for further surgery.
+3. **Postoperative Care**: Monitoring for complications and managing bowel function post-surgery.
+
+Additional treatments may include dietary changes and medications to manage symptoms. Always consult a healthcare professional for personalized advice.",2888,ok,
+medquestions-500-0046,gpt-4o-mini,What is (are) Osteosarcoma and Malignant Fibrous Histiocytoma of Bone ?,"Osteosarcoma is a type of bone cancer that typically occurs in the long bones, particularly around the knee and in the upper arm. It is characterized by the production of immature bone or osteoid tissue.
+
+Malignant Fibrous Histiocytoma of Bone (MFH) is a rare type of bone tumor that arises from fibrous tissue and histiocytes. It is considered a high-grade sarcoma and can occur in various bones, often affecting adults.
+
+Both are aggressive tumors that require prompt diagnosis and treatment, usually involving surgery and possibly chemotherapy.",1985,ok,
+medquestions-500-0047,gpt-4o-mini,What are the symptoms of Gum (Periodontal) Disease ?,"Symptoms of gum (periodontal) disease include:
+
+1. Red, swollen, or tender gums
+2. Bleeding gums during brushing or flossing
+3. Bad breath (halitosis)
+4. Receding gums
+5. Loose or shifting teeth
+6. Pus between teeth and gums
+7. Changes in bite or tooth alignment
+
+If you experience these symptoms, consult a dentist.",1889,ok,
+medquestions-500-0048,gpt-4o-mini,What are the symptoms of 22q11.2 duplication syndrome ?,"Symptoms of 22q11.2 duplication syndrome can vary widely but may include:
+
+- Developmental delays
+- Learning disabilities
+- Speech and language difficulties
+- Heart defects
+- Immune system issues
+- Gastrointestinal problems
+- Behavioral challenges
+- Autism spectrum disorders
+- Distinctive facial features
+
+Consult a healthcare professional for a comprehensive evaluation and diagnosis.",1774,ok,
+medquestions-500-0049,gpt-4o-mini,Do you have information about Infant and Newborn Nutrition,"Yes, infant and newborn nutrition primarily involves breastfeeding or formula feeding. Exclusive breastfeeding is recommended for the first six months, providing essential nutrients and antibodies. After six months, complementary foods can be introduced while continuing breastfeeding. Formula can be used as an alternative to breast milk. Always consult a pediatrician for personalized advice.",1763,ok,
+medquestions-500-0050,gpt-4o-mini,What is (are) Cataract ?,"A cataract is a clouding of the eye's natural lens, leading to decreased vision. It often develops with age and can cause symptoms like blurred vision, glare, and difficulty seeing at night. Treatment typically involves surgical removal of the cloudy lens, often replaced with an artificial lens.",1243,ok,
+medquestions-500-0051,gpt-4o-mini,What are the treatments for ataxia with vitamin E deficiency ?,"Treatment for ataxia due to vitamin E deficiency primarily involves vitamin E supplementation. The typical dosage is 800 to 1200 IU per day, but it should be tailored to the individual. Additionally, addressing any underlying causes of the deficiency, such as malabsorption issues, is important. Regular monitoring and follow-up with a healthcare provider are recommended.",1755,ok,
+medquestions-500-0052,gpt-4o-mini,What to do for Primary Biliary Cirrhosis ?,"Primary Biliary Cirrhosis (PBC) management includes:
+
+1. **Ursodeoxycholic Acid (UDCA)**: First-line treatment to improve liver function and slow disease progression.
+2. **Symptom Management**: Treat itching (pruritus) with antihistamines or cholestyramine; manage fatigue and other symptoms.
+3. **Vitamin Supplements**: Consider fat-soluble vitamins (A, D, E, K) if malabsorption occurs.
+4. **Monitoring**: Regular liver function tests and monitoring for complications.
+5. **Liver Transplant**: Considered in advanced cases with liver failure.
+
+Consult a healthcare provider for personalized treatment.",2867,ok,
+medquestions-500-0053,gpt-4o-mini,Is Non-classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency inherited ?,"Yes, non-classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency is inherited in an autosomal recessive manner.",1001,ok,
+medquestions-500-0054,gpt-4o-mini,How many people are affected by Kidney Dysplasia ?,"Kidney dysplasia, specifically multicystic dysplastic kidney (MCDK), occurs in approximately 1 in 4,000 to 1 in 10,000 live births. The prevalence can vary based on the population studied.",1162,ok,
+medquestions-500-0055,gpt-4o-mini,What are the symptoms of Familial eosinophilia ?,"Symptoms of familial eosinophilia can include:
+
+1. Elevated eosinophil levels in the blood.
+2. Skin rashes or lesions.
+3. Respiratory issues (e.g., asthma, cough).
+4. Gastrointestinal symptoms (e.g., abdominal pain, diarrhea).
+5. Fever or malaise.
+6. Fatigue.
+
+Symptoms can vary widely among individuals. Always consult a healthcare professional for diagnosis and management.",2175,ok,
+medquestions-500-0056,gpt-4o-mini,What are the treatments for National Hormone and Pituitary Program (NHPP): Information for People Treated with Pituitary Human Growth Hormone (Comprehensive Report) ?,"The treatments for individuals receiving pituitary human growth hormone (HGH) typically include:
+
+1. **Hormone Replacement Therapy**: Administering HGH to address deficiencies.
+2. **Monitoring**: Regular assessments of hormone levels and growth progress.
+3. **Management of Side Effects**: Addressing any adverse effects from HGH therapy.
+4. **Supportive Care**: Nutritional guidance and physical therapy as needed.
+
+Always consult a healthcare provider for personalized treatment plans.",2236,ok,
+medquestions-500-0057,gpt-4o-mini,What is (are) Shapiro syndrome ?,"Shapiro syndrome is a rare neurological condition characterized by episodes of hypothermia (lowered body temperature) and excessive sweating. It is often associated with hypothalamic dysfunction and can lead to other symptoms such as obesity and developmental delays. The exact cause is not well understood, and treatment focuses on managing symptoms.",1473,ok,
+medquestions-500-0058,gpt-4o-mini,What are the treatments for mandibuloacral dysplasia ?,"Treatment for mandibuloacral dysplasia primarily focuses on managing symptoms and complications. This may include:
+
+1. **Growth Hormone Therapy**: To address short stature.
+2. **Physical Therapy**: To improve mobility and strength.
+3. **Surgical Interventions**: For skeletal deformities or dental issues.
+4. **Management of Metabolic Complications**: Such as monitoring and treating insulin resistance or other endocrine issues.
+5. **Regular Monitoring**: For cardiovascular and other health concerns.
+
+Consultation with a multidisciplinary team is often beneficial.",2108,ok,
+medquestions-500-0059,gpt-4o-mini,What are the symptoms of Neuronal ceroid lipofuscinosis 5 ?,"Symptoms of Neuronal ceroid lipofuscinosis 5 (CLN5) typically include:
+
+- Progressive vision loss
+- Seizures
+- Cognitive decline
+- Motor skill deterioration
+- Behavioral changes
+- Ataxia (loss of coordination)
+- Muscle weakness
+
+Symptoms usually appear in childhood and worsen over time.",1805,ok,
+medquestions-500-0060,gpt-4o-mini,How many people are affected by Osteoarthritis ?,"Osteoarthritis affects approximately 32.5 million adults in the United States. Globally, it is one of the most common forms of arthritis, impacting millions more.",992,ok,
+medquestions-500-0061,gpt-4o-mini,How to diagnose Osteoporosis ?,"Osteoporosis is diagnosed through a combination of medical history, physical examination, and imaging tests. The most common method is a bone density test (DEXA scan), which measures bone mineral density. Additional assessments may include blood tests to check for calcium and vitamin D levels, and evaluating risk factors such as age, gender, family history, and lifestyle.",1928,ok,
+medquestions-500-0062,gpt-4o-mini,What are the symptoms of Facial ectodermal dysplasia ?,"Symptoms of facial ectodermal dysplasia may include:
+
+1. Abnormalities in teeth (missing or malformed)
+2. Sparse or absent hair
+3. Dry skin
+4. Reduced sweating
+5. Facial deformities (e.g., underdeveloped facial features)
+6. Hearing loss (in some cases)
+
+Symptoms can vary widely among individuals.",1731,ok,
+medquestions-500-0063,gpt-4o-mini,What is (are) Prevent diabetes problems: Keep your nervous system healthy ?,"To prevent diabetes-related nerve problems, maintain good blood sugar control, follow a balanced diet, exercise regularly, avoid smoking, manage blood pressure and cholesterol levels, and get regular check-ups.",1204,ok,
+medquestions-500-0064,gpt-4o-mini,What are the symptoms of Osteoarthritis ?,"Symptoms of osteoarthritis include:
+
+1. Joint pain
+2. Stiffness, especially after inactivity
+3. Swelling around the joints
+4. Decreased range of motion
+5. A grating sensation or popping sound during movement
+6. Bone spurs around the affected joints
+
+Symptoms may worsen with activity and improve with rest.",1692,ok,
+medquestions-500-0065,gpt-4o-mini,What are the symptoms of 15q13.3 microdeletion syndrome ?,"Symptoms of 15q13.3 microdeletion syndrome can include developmental delays, intellectual disability, autism spectrum disorders, seizures, speech and language difficulties, and behavioral issues. Physical features may include distinct facial characteristics, hypotonia, and growth delays. Each individual may present with a different combination of these symptoms.",1438,ok,
+medquestions-500-0066,gpt-4o-mini,What are the treatments for polycystic kidney disease ?,"Treatment for polycystic kidney disease (PKD) focuses on managing symptoms and complications. Options include:
+
+1. **Blood pressure control**: Medications like ACE inhibitors or ARBs.
+2. **Pain management**: Analgesics for pain relief.
+3. **Dietary changes**: Low-sodium and low-protein diets may help.
+4. **Fluid management**: Staying hydrated and managing fluid intake.
+5. **Kidney function monitoring**: Regular check-ups and lab tests.
+6. **Dialysis or kidney transplant**: For end-stage renal disease.
+
+Consult a healthcare provider for personalized treatment options.",3214,ok,
+medquestions-500-0067,gpt-4o-mini,How to diagnose Parkinson's Disease ?,"Parkinson's Disease is diagnosed through a combination of clinical evaluation, medical history, and neurological examination. Key diagnostic criteria include:
+
+1. **Motor Symptoms**: Presence of bradykinesia (slowness of movement) plus at least one of the following: resting tremor, rigidity, or postural instability.
+2. **Response to Medication**: Improvement of symptoms with dopaminergic medications can support the diagnosis.
+3. **Exclusion of Other Conditions**: Ruling out other neurological disorders through imaging (like MRI) and tests.
+
+There is no definitive test for Parkinson's; diagnosis is primarily clinical.",3005,ok,
+medquestions-500-0068,gpt-4o-mini,What causes Osteoarthritis ?,"Osteoarthritis is caused by the breakdown of cartilage in joints due to factors such as aging, joint injury, obesity, genetics, and repetitive stress on the joints.",1372,ok,
+medquestions-500-0069,gpt-4o-mini,Is Bart-Pumphrey syndrome inherited ?,"Yes, Bart-Pumphrey syndrome is inherited in an autosomal recessive manner.",756,ok,
+medquestions-500-0070,gpt-4o-mini,Is intrahepatic cholestasis of pregnancy inherited ?,"Yes, intrahepatic cholestasis of pregnancy (ICP) can have a genetic component, as it often runs in families. However, the exact inheritance pattern is not fully understood.",1642,ok,
+medquestions-500-0071,gpt-4o-mini,How to diagnose Chronic Fatigue Syndrome (CFS) ?,"Chronic Fatigue Syndrome (CFS) is diagnosed based on specific criteria, including:
+
+1. **Persistent Fatigue**: Unexplained fatigue lasting at least six months, not improved by rest.
+2. **Post-Exertional Malaise**: Worsening of symptoms after physical or mental exertion.
+3. **Sleep Disturbances**: Unrefreshing sleep or other sleep issues.
+4. **Cognitive Impairments**: Problems with memory, concentration, or information processing.
+5. **Other Symptoms**: May include joint pain, headaches, muscle pain, and sore throat.
+
+Diagnosis is primarily clinical, ruling out other conditions with similar symptoms. A healthcare provider may use specific diagnostic criteria, such as the Fukuda criteria or the Institute of Medicine criteria.",3047,ok,
+medquestions-500-0072,gpt-4o-mini,What are the symptoms of Salcedo syndrome ?,"Salcedo syndrome is characterized by symptoms such as recurrent episodes of fever, abdominal pain, and skin rashes. It may also include joint pain and other systemic symptoms. If you suspect this condition, consult a healthcare professional for proper diagnosis and management.",1482,ok,
+medquestions-500-0073,gpt-4o-mini,How many people are affected by Lynch syndrome ?,"Lynch syndrome affects approximately 1 in 279 individuals in the general population, but the prevalence can vary based on specific populations and family histories.",1311,ok,
+medquestions-500-0074,gpt-4o-mini,What is (are) Flu ?,"Flu, or influenza, is a contagious viral infection that affects the respiratory system. It is caused by influenza viruses and can lead to symptoms such as fever, cough, sore throat, body aches, fatigue, and sometimes gastrointestinal symptoms. There are several strains of the virus, and it can vary in severity. Vaccination is available to help prevent infection.",2608,ok,
+medquestions-500-0075,gpt-4o-mini,What causes Klinefelter syndrome ?,"Klinefelter syndrome is caused by the presence of an extra X chromosome in males, resulting in a 47,XXY karyotype. This chromosomal abnormality occurs during meiosis, either in the formation of the sperm or egg, leading to the extra chromosome in the fertilized egg.",1690,ok,
+medquestions-500-0076,gpt-4o-mini,What are the treatments for Alkhurma Hemorrhagic Fever (AHF) ?,"There is no specific antiviral treatment for Alkhurma Hemorrhagic Fever (AHF). Supportive care is the primary approach, which includes:
+
+1. **Fluid management**: To prevent dehydration.
+2. **Symptomatic treatment**: Pain relief and management of fever.
+3. **Monitoring**: Close observation for complications.
+4. **Transfusion**: If necessary, for severe bleeding or low platelet counts.
+
+Preventive measures, such as avoiding contact with ticks and minimizing exposure to potential animal reservoirs, are also important.",2143,ok,
+medquestions-500-0077,gpt-4o-mini,What are the treatments for primary macronodular adrenal hyperplasia ?,"Treatment for primary macronodular adrenal hyperplasia typically includes:
+
+1. **Surgical Intervention**: Adrenalectomy (removal of the affected adrenal gland) may be considered, especially if there are significant hormone excess or tumors.
+2. **Medical Management**: Medications to control hormone levels, such as mineralocorticoid receptor antagonists (e.g., spironolactone) or glucocorticoids, may be used.
+3. **Monitoring**: Regular follow-up and monitoring of hormone levels and symptoms.
+
+Consultation with an endocrinologist is essential for personalized treatment planning.",3174,ok,
+medquestions-500-0078,gpt-4o-mini,What are the genetic changes related to Meige disease ?,"Meige disease, also known as idiopathic or primary blepharospasm, is primarily considered a movement disorder rather than a genetic condition. While specific genetic changes have not been definitively identified, some studies suggest potential associations with variations in genes related to neurotransmitter systems and movement regulation. However, more research is needed to clarify any genetic links.",1700,ok,
+medquestions-500-0079,gpt-4o-mini,What causes Hereditary spherocytosis ?,"Hereditary spherocytosis is caused by genetic mutations that affect proteins in the red blood cell membrane, leading to a loss of membrane stability. This results in the formation of spherical-shaped red blood cells that are more prone to hemolysis (destruction). The most common mutations involve genes such as ANK1, SPTB, and SLC4A1.",2025,ok,
+medquestions-500-0080,gpt-4o-mini,Is Hereditary multiple osteochondromas inherited ?,"Yes, Hereditary multiple osteochondromas is inherited in an autosomal dominant manner.",1189,ok,
+medquestions-500-0081,gpt-4o-mini,What is the outlook for Infantile Spasms ?,"The outlook for infantile spasms varies. Early diagnosis and treatment can improve outcomes, but some children may experience developmental delays or ongoing seizures. Long-term prognosis depends on the underlying cause and response to treatment. Regular follow-up with a healthcare provider is essential.",1493,ok,
+medquestions-500-0082,gpt-4o-mini,What are the treatments for Atherosclerosis ?,"Treatments for atherosclerosis include:
+
+1. **Lifestyle Changes**: Diet modification, regular exercise, smoking cessation, and weight management.
+2. **Medications**: Statins, antiplatelet agents (like aspirin), blood pressure medications, and medications to control diabetes.
+3. **Medical Procedures**: Angioplasty and stenting, or bypass surgery in severe cases.
+4. **Monitoring and Management**: Regular check-ups to monitor heart health and manage risk factors. 
+
+Always consult a healthcare provider for personalized treatment options.",2474,ok,
+medquestions-500-0083,gpt-4o-mini,What are the symptoms of Hepatic venoocclusive disease with immunodeficiency ?,"Symptoms of Hepatic venoocclusive disease (HVOD) with immunodeficiency may include:
+
+- Jaundice (yellowing of the skin and eyes)
+- Abdominal pain and swelling
+- Ascites (fluid accumulation in the abdomen)
+- Hepatomegaly (enlarged liver)
+- Weight gain or loss
+- Fatigue
+- Nausea and vomiting
+- Increased susceptibility to infections due to immunodeficiency
+
+Consult a healthcare professional for a proper diagnosis and treatment.",2230,ok,
+medquestions-500-0084,gpt-4o-mini,What is (are) Male Breast Cancer ?,"Male breast cancer is a rare type of cancer that occurs in the breast tissue of men. It typically presents as a lump or mass in the breast, and can also involve changes in the skin or nipple. Risk factors include age, family history, genetic mutations (like BRCA2), and exposure to radiation. Treatment options may include surgery, radiation, chemotherapy, and hormone therapy.",2135,ok,
+medquestions-500-0085,gpt-4o-mini,What are the treatments for Friedreich's Ataxia ?,"There is currently no cure for Friedreich's Ataxia, but treatments focus on managing symptoms and improving quality of life. Common approaches include:
+
+1. **Physical Therapy**: To improve mobility and coordination.
+2. **Occupational Therapy**: To assist with daily activities.
+3. **Speech Therapy**: For communication and swallowing difficulties.
+4. **Medications**: To manage symptoms like pain, spasticity, and heart issues.
+5. **Nutritional Support**: To address dietary needs and maintain weight.
+6. **Surgery**: In some cases, to correct scoliosis or other complications.
+
+Clinical trials for potential therapies are ongoing.",3260,ok,
+medquestions-500-0086,gpt-4o-mini,Who is at risk for Prostate Cancer? ?,"Risk factors for prostate cancer include:
+
+1. Age: Men over 50 are at higher risk.
+2. Family history: Having a father or brother with prostate cancer increases risk.
+3. Race: African American men have a higher risk.
+4. Genetics: Certain inherited gene mutations (e.g., BRCA1, BRCA2) can increase risk.
+5. Diet: High-fat diets and obesity may contribute to risk.
+
+Regular screenings are recommended for those at higher risk.",2689,ok,
+medquestions-500-0087,gpt-4o-mini,What to do for Urinary Tract Infections in Children ?,"For urinary tract infections (UTIs) in children, consult a pediatrician for diagnosis and treatment. Common steps include:
+
+1. **Antibiotics**: Prescribed by a doctor based on the infection type.
+2. **Hydration**: Encourage fluid intake to help flush out bacteria.
+3. **Pain Relief**: Over-the-counter pain relievers may be recommended.
+4. **Hygiene**: Teach proper wiping techniques and encourage regular bathroom use.
+5. **Follow-up**: Ensure follow-up appointments to confirm the infection has cleared.
+
+Always seek medical advice for appropriate care.",2756,ok,
+medquestions-500-0088,gpt-4o-mini,How to diagnose Varicose Veins ?,Varicose veins are diagnosed through a physical examination and patient history. A healthcare provider may also use ultrasound imaging to assess blood flow and identify any underlying issues.,1215,ok,
+medquestions-500-0089,gpt-4o-mini,What is (are) Childhood Central Nervous System Embryonal Tumors ?,"Childhood Central Nervous System Embryonal Tumors are a group of malignant tumors that arise from immature nerve cells in the brain or spinal cord. The most common types include medulloblastoma, atypical teratoid/rhabdoid tumor (AT/RT), and primitive neuroectodermal tumors (PNETs). These tumors typically occur in children and can affect brain function, leading to symptoms like headaches, nausea, and neurological deficits. Treatment often involves surgery, chemotherapy, and radiation therapy.",2846,ok,
+medquestions-500-0090,gpt-4o-mini,What is (are) laryngo-onycho-cutaneous syndrome ?,"Laryngo-onycho-cutaneous syndrome is a rare genetic disorder characterized by abnormalities in the larynx (voice box), nails (onycho), and skin (cutaneous). It may involve respiratory issues, nail dystrophy, and skin lesions. The condition is often associated with mutations in specific genes and may require multidisciplinary management for symptoms.",2112,ok,
+medquestions-500-0091,gpt-4o-mini,What are the treatments for Mitochondrial genetic disorders ?,"Treatment for mitochondrial genetic disorders focuses on managing symptoms and improving quality of life. Options may include:
+
+1. **Nutritional supplements**: Coenzyme Q10, L-carnitine, and B vitamins.
+2. **Physical therapy**: To improve muscle strength and function.
+3. **Medications**: To manage specific symptoms like seizures or pain.
+4. **Dietary modifications**: High-fat, low-carbohydrate diets in some cases.
+5. **Gene therapy**: Experimental approaches are being researched.
+6. **Supportive care**: Including occupational and speech therapy.
+
+Consultation with a specialist is essential for personalized treatment plans.",3184,ok,
+medquestions-500-0092,gpt-4o-mini,What are the treatments for Cramp-fasciculation syndrome ?,"Treatments for Cramp-fasciculation syndrome may include:
+
+1. **Medications**: Muscle relaxants (e.g., baclofen), anticonvulsants (e.g., gabapentin), or benzodiazepines.
+2. **Lifestyle modifications**: Regular exercise, hydration, and electrolyte balance.
+3. **Physical therapy**: Stretching and strengthening exercises.
+4. **Avoiding triggers**: Identifying and managing stressors or activities that exacerbate symptoms.
+
+Consult a healthcare provider for personalized treatment options.",2460,ok,
+medquestions-500-0093,gpt-4o-mini,What are the treatments for SYNGAP1-related intellectual disability ?,"Currently, there is no specific cure for SYNGAP1-related intellectual disability. Treatments focus on managing symptoms and may include:
+
+1. **Therapies**: 
+   - Speech therapy
+   - Occupational therapy
+   - Physical therapy
+
+2. **Educational support**: Tailored educational programs to meet individual learning needs.
+
+3. **Medications**: To manage associated symptoms like seizures or behavioral issues, as prescribed by a healthcare provider.
+
+4. **Support services**: Family support and counseling.
+
+Consultation with a healthcare professional is essential for personalized treatment plans.",2623,ok,
+medquestions-500-0094,gpt-4o-mini,Is hereditary leiomyomatosis and renal cell cancer inherited ?,"Yes, hereditary leiomyomatosis and renal cell cancer (HLRCC) is inherited in an autosomal dominant manner.",830,ok,
+medquestions-500-0095,gpt-4o-mini,What are the symptoms of Neuronal ceroid lipofuscinosis ?,"Symptoms of Neuronal ceroid lipofuscinosis (NCL) can include:
+
+- Vision loss
+- Seizures
+- Cognitive decline
+- Motor skill deterioration
+- Behavioral changes
+- Muscle weakness
+- Speech difficulties
+- Sleep disturbances
+
+Symptoms typically appear in childhood and progress over time.",1628,ok,
+medquestions-500-0096,gpt-4o-mini,Do you have information about Toddler Health,"Yes, I can provide information about toddler health. What specific topics are you interested in?",1213,ok,
+medquestions-500-0097,gpt-4o-mini,What is (are) Amyopathic dermatomyositis ?,"Amyopathic dermatomyositis is a form of dermatomyositis characterized by skin manifestations without significant muscle weakness or inflammation. Patients may exhibit skin rashes typical of dermatomyositis, but they do not show the muscle involvement typically associated with the condition. It can be associated with underlying malignancies or other autoimmune diseases.",1904,ok,
+medquestions-500-0098,gpt-4o-mini,Is spinal muscular atrophy inherited ?,"Yes, spinal muscular atrophy (SMA) is inherited in an autosomal recessive manner.",834,ok,
+medquestions-500-0099,gpt-4o-mini,What are the symptoms of Glycogen storage disease type 12 ?,"Glycogen storage disease type 12, also known as muscle phosphorylase deficiency, primarily presents with symptoms such as:
+
+- Muscle cramps
+- Exercise intolerance
+- Myoglobinuria (dark urine after exercise)
+- Muscle weakness
+
+Symptoms typically manifest during physical activity.",1333,ok,
+medquestions-500-0100,gpt-4o-mini,How many people are affected by myostatin-related muscle hypertrophy ?,"Myostatin-related muscle hypertrophy is extremely rare, with only a few dozen cases reported worldwide. It is a genetic condition caused by mutations in the MSTN gene.",1487,ok,
+medquestions-500-0101,gpt-4o-mini,How many people are affected by glycine encephalopathy ?,"Glycine encephalopathy, also known as non-ketotic hyperglycinemia, is a rare genetic disorder. It is estimated to affect approximately 1 in 100,000 to 1 in 200,000 live births.",1297,ok,
+medquestions-500-0102,gpt-4o-mini,How to prevent Sexual and Urologic Problems of Diabetes ?,"To prevent sexual and urologic problems related to diabetes, consider the following strategies:
+
+1. **Maintain Blood Sugar Control**: Keep blood glucose levels within target ranges through diet, exercise, and medication.
+2. **Regular Check-ups**: Schedule regular visits with healthcare providers to monitor diabetes and related complications.
+3. **Healthy Lifestyle**: Adopt a balanced diet, engage in regular physical activity, and maintain a healthy weight.
+4. **Avoid Smoking and Limit Alcohol**: Both can exacerbate urologic and sexual issues.
+5. **Manage Blood Pressure and Cholesterol**: Keep these levels in check to reduce complications.
+6. **Stay Hydrated**: Drink plenty of water to support kidney function.
+7. **Pelvic Floor Exercises**: Consider Kegel exercises to strengthen pelvic muscles.
+8. **Open Communication**: Discuss any concerns with a healthcare provider for early intervention.
+
+Regular monitoring and proactive management are key to preventing complications.",3715,ok,
+medquestions-500-0103,gpt-4o-mini,How many people are affected by familial atrial fibrillation ?,"Familial atrial fibrillation affects approximately 5-10% of individuals with atrial fibrillation, indicating a genetic component in some cases.",1091,ok,
+medquestions-500-0104,gpt-4o-mini,How to diagnose Diffuse idiopathic skeletal hyperostosis ?,"Diffuse idiopathic skeletal hyperostosis (DISH) is diagnosed through a combination of clinical evaluation and imaging studies. Key steps include:
+
+1. **Clinical Assessment**: Look for symptoms such as stiffness, particularly in the thoracic spine, and a history of back pain.
+
+2. **Imaging**: X-rays are the primary tool, showing characteristic findings such as:
+   - Calcification or ossification of the anterior longitudinal ligament.
+   - Preservation of disc height.
+   - Involvement of at least four contiguous vertebrae.
+
+3. **Exclusion of Other Conditions**: Rule out other causes of similar symptoms, such as ankylosing spondylitis or osteoarthritis.
+
+4. **Laboratory Tests**: May be performed to exclude inflammatory or metabolic disorders, but are not definitive for DISH.
+
+A rheumatologist or orthopedic specialist typically conducts the diagnosis.",3935,ok,
+medquestions-500-0105,gpt-4o-mini,Who is at risk for Insomnia? ?,"Individuals at risk for insomnia include those with:
+
+1. **Chronic stress**: High levels of anxiety or stress.
+2. **Mental health disorders**: Depression, anxiety, PTSD.
+3. **Medical conditions**: Chronic pain, asthma, diabetes.
+4. **Substance use**: Alcohol, caffeine, nicotine, or certain medications.
+5. **Age**: Older adults are more prone to insomnia.
+6. **Lifestyle factors**: Irregular sleep schedules, lack of physical activity.
+7. **Shift work**: Those with non-traditional work hours.",2772,ok,
+medquestions-500-0106,gpt-4o-mini,What to do for Inguinal Hernia ?,"For an inguinal hernia, treatment options include:
+
+1. **Watchful Waiting**: If asymptomatic and not causing issues.
+2. **Surgery**: Recommended for symptomatic hernias or if complications arise. Options include open surgery or laparoscopic repair.
+
+Consult a healthcare provider for personalized advice.",1961,ok,
+medquestions-500-0107,gpt-4o-mini,What is (are) Hypomyelination with atrophy of basal ganglia and cerebellum ?,"Hypomyelination with atrophy of the basal ganglia and cerebellum refers to a neurological condition characterized by reduced myelin (the protective sheath around nerve fibers) and shrinkage (atrophy) of specific brain regions, particularly the basal ganglia and cerebellum. This can lead to motor and cognitive impairments. It is often associated with genetic disorders, such as hypomyelination syndromes, and may present with symptoms like developmental delays, movement disorders, and coordination issues. Diagnosis typically involves imaging studies and genetic testing.",2219,ok,
+medquestions-500-0108,gpt-4o-mini,What are the genetic changes related to KBG syndrome ?,"KBG syndrome is primarily associated with mutations in the ANKRD11 gene, located on chromosome 16. These mutations can lead to various developmental and physical features characteristic of the syndrome.",947,ok,
+medquestions-500-0109,gpt-4o-mini,What causes Isovaleric acidemia ?,"Isovaleric acidemia is caused by a deficiency of the enzyme isovaleryl-CoA dehydrogenase, which is involved in the metabolism of the amino acid leucine. This genetic disorder is inherited in an autosomal recessive manner.",1347,ok,
+medquestions-500-0110,gpt-4o-mini,How to diagnose Parsonage Turner syndrome ?,"Parsonage-Turner syndrome is diagnosed through a combination of clinical evaluation and diagnostic tests. Key steps include:
+
+1. **Clinical History**: Assessing symptoms such as sudden shoulder pain, weakness, and atrophy of shoulder muscles.
+2. **Physical Examination**: Evaluating muscle strength and reflexes in the affected area.
+3. **Electromyography (EMG)**: To assess nerve function and identify any nerve damage.
+4. **Magnetic Resonance Imaging (MRI)**: May be used to rule out other conditions and visualize nerve involvement.
+
+Diagnosis is primarily clinical, supported by these tests.",3308,ok,
+medquestions-500-0111,gpt-4o-mini,What is the outlook for Atypical Chronic Myelogenous Leukemia ?,"Atypical Chronic Myelogenous Leukemia (CML) has a variable outlook depending on factors such as the patient's age, overall health, and response to treatment. Generally, with targeted therapies like tyrosine kinase inhibitors (TKIs), many patients can achieve good control of the disease and maintain a good quality of life. However, it may progress to more aggressive forms, and long-term management is often necessary. Regular monitoring and treatment adjustments are crucial for optimal outcomes.",2353,ok,
+medquestions-500-0112,gpt-4o-mini,What are the symptoms of Agenesis of the dorsal pancreas ?,"Symptoms of agenesis of the dorsal pancreas can include:
+
+- Abdominal pain
+- Nausea and vomiting
+- Weight loss
+- Malabsorption and diarrhea
+- Diabetes mellitus (due to insufficient insulin production)
+
+Some individuals may be asymptomatic. Diagnosis often occurs incidentally during imaging studies.",1742,ok,
+medquestions-500-0113,gpt-4o-mini,What is (are) Primrose syndrome ?,"Primrose syndrome is a rare genetic disorder characterized by features such as facial dysmorphism, developmental delays, and various other anomalies. It is associated with mutations in the KMT2D gene. Symptoms can include growth delays, intellectual disability, and distinctive facial features. Diagnosis is typically made through clinical evaluation and genetic testing.",1793,ok,
+medquestions-500-0114,gpt-4o-mini,What is (are) Cap myopathy ?,"Cap myopathy is a rare muscle disorder characterized by the presence of cap-like structures in muscle fibers, often associated with weakness and muscle wasting. It can be linked to genetic mutations and may present with symptoms such as muscle pain and fatigue. Diagnosis typically involves muscle biopsy and genetic testing. Treatment focuses on managing symptoms and improving muscle function.",1776,ok,
+medquestions-500-0115,gpt-4o-mini,What are the symptoms of Nocardiosis ?,"Symptoms of nocardiosis can include:
+
+- Cough
+- Chest pain
+- Shortness of breath
+- Fever
+- Night sweats
+- Fatigue
+- Skin lesions (in cutaneous nocardiosis)
+- Brain abscesses (in disseminated cases)
+
+Symptoms may vary based on the site of infection.",1677,ok,
+medquestions-500-0116,gpt-4o-mini,What is (are) Uterine Sarcoma ?,"Uterine sarcomas are rare malignant tumors that arise from the muscle or connective tissue of the uterus. They differ from more common uterine cancers, such as endometrial carcinoma. Types of uterine sarcomas include leiomyosarcoma, endometrial stromal sarcoma, and carcinosarcoma. Symptoms may include abnormal bleeding, pelvic pain, and an enlarged uterus. Treatment typically involves surgery, and may include chemotherapy or radiation therapy.",2553,ok,
+medquestions-500-0117,gpt-4o-mini,What are the symptoms of Ameloonychohypohidrotic syndrome ?,"Ameloonychohypohidrotic syndrome is characterized by:
+
+1. Hypodontia or anodontia (missing teeth)
+2. Abnormal or absent nails (onychodystrophy)
+3. Reduced sweating (hypohidrosis)
+4. Possible skin abnormalities
+5. Facial dysmorphism (e.g., a flat face, prominent forehead)
+
+Symptoms can vary in severity among individuals.",1945,ok,
+medquestions-500-0118,gpt-4o-mini,What are the symptoms of Surviving Cancer ?,"Survivors of cancer may experience a range of symptoms, including:
+
+1. Fatigue
+2. Pain
+3. Cognitive changes (often referred to as ""chemo brain"")
+4. Emotional changes (anxiety, depression)
+5. Changes in appetite or weight
+6. Sleep disturbances
+7. Physical changes (scarring, lymphedema)
+8. Increased risk of secondary cancers
+
+It's important for survivors to discuss any symptoms with their healthcare provider.",1847,ok,
+medquestions-500-0119,gpt-4o-mini,What are the genetic changes related to homocystinuria ?,"Homocystinuria is primarily caused by mutations in the CBS gene, which encodes the enzyme cystathionine beta-synthase. This enzyme is involved in the metabolism of homocysteine. Other rare forms of homocystinuria can be caused by mutations in genes such as MTHFR, MTR, and MTRR, affecting different pathways of homocysteine metabolism.",3626,ok,
+medquestions-500-0120,gpt-4o-mini,What is (are) Glaucoma ?,"Glaucoma is a group of eye conditions that damage the optic nerve, often due to increased intraocular pressure. It can lead to vision loss and blindness if untreated. The most common types are open-angle glaucoma and angle-closure glaucoma. Regular eye exams are essential for early detection and management.",1520,ok,
+medquestions-500-0121,gpt-4o-mini,Is Pyruvate carboxylase deficiency inherited ?,"Yes, pyruvate carboxylase deficiency is inherited in an autosomal recessive manner.",878,ok,
+medquestions-500-0122,gpt-4o-mini,What are the symptoms of Treacher Collins syndrome 3 ?,"Treacher Collins syndrome type 3 typically includes symptoms such as facial deformities, particularly affecting the jaw, cheekbones, and ears; hearing loss; cleft palate; and possible vision problems. Other features may include dental abnormalities and respiratory issues. Severity can vary widely among individuals.",1500,ok,
+medquestions-500-0123,gpt-4o-mini,What is (are) Iridocorneal endothelial syndrome ?,"Iridocorneal endothelial syndrome (ICE) is a group of eye disorders characterized by abnormal proliferation of corneal endothelial cells, leading to corneal edema, iris changes, and glaucoma. It includes three main types: Chandler's syndrome, progressive iris atrophy, and essential iris atrophy. Symptoms may include blurred vision, glare, and eye pain. Treatment often involves managing glaucoma and may require surgical intervention.",1608,ok,
+medquestions-500-0124,gpt-4o-mini,Is X-linked hypophosphatemia inherited ?,"Yes, X-linked hypophosphatemia is inherited in an X-linked dominant pattern, primarily affecting males.",990,ok,
+medquestions-500-0125,gpt-4o-mini,Is familial acute myeloid leukemia with mutated CEBPA inherited ?,"Yes, familial acute myeloid leukemia (AML) with mutated CEBPA can be inherited in an autosomal dominant manner.",1103,ok,
+medquestions-500-0126,gpt-4o-mini,What is (are) G6PD Deficiency ?,"G6PD deficiency is a genetic disorder where the body lacks the enzyme glucose-6-phosphate dehydrogenase. This enzyme is crucial for protecting red blood cells from damage. Individuals with this deficiency may experience hemolytic anemia, especially when exposed to certain foods, medications, or infections. It is more common in males and can lead to symptoms like fatigue, jaundice, and dark urine.",1766,ok,
+medquestions-500-0127,gpt-4o-mini,What causes COPD ?,"Chronic Obstructive Pulmonary Disease (COPD) is primarily caused by long-term exposure to irritants that damage the lungs and airways. The main causes include:
+
+1. **Cigarette smoking** - the leading cause.
+2. **Air pollution** - including indoor and outdoor pollutants.
+3. **Occupational exposure** - to dust, chemicals, and fumes.
+4. **Genetic factors** - such as alpha-1 antitrypsin deficiency.
+5. **Respiratory infections** - in childhood can increase risk.
+
+Avoiding these risk factors can help prevent COPD.",1351572,ok,
+medquestions-500-0128,gpt-4o-mini,How to diagnose Primary Familial Brain Calcification ?,"Primary Familial Brain Calcification (PFBC) is diagnosed through a combination of clinical evaluation and imaging studies. Key steps include:
+
+1. **Clinical Assessment**: Evaluate symptoms such as neurological deficits, movement disorders, or psychiatric symptoms.
+2. **Neuroimaging**: MRI or CT scans are used to identify characteristic calcifications in the basal ganglia and other brain regions.
+3. **Family History**: Assess for a family history of similar symptoms or conditions, as PFBC is often hereditary.
+4. **Genetic Testing**: Consider genetic testing for known mutations associated with PFBC, such as in the SLC20A2, PDGFB, or XPR1 genes.
+
+Consultation with a neurologist is recommended for a comprehensive evaluation.",3934,ok,
+medquestions-500-0129,gpt-4o-mini,What are the treatments for Hypotension ?,"Treatments for hypotension (low blood pressure) may include:
+
+1. **Increased fluid intake**: Drinking more water to boost blood volume.
+2. **Salt intake**: Increasing dietary salt under medical supervision.
+3. **Compression stockings**: To improve blood circulation.
+4. **Medications**: Such as fludrocortisone or midodrine to raise blood pressure.
+5. **Lifestyle changes**: Eating smaller, more frequent meals and avoiding alcohol.
+
+Consult a healthcare provider for personalized treatment options.",4142,ok,
+medquestions-500-0130,gpt-4o-mini,What causes Hemochromatosis ?,"Hemochromatosis is primarily caused by genetic mutations, most commonly in the HFE gene, leading to excessive iron absorption from the diet. Other causes can include chronic liver disease, repeated blood transfusions, and certain metabolic disorders.",1361,ok,
+medquestions-500-0131,gpt-4o-mini,What are the genetic changes related to familial exudative vitreoretinopathy ?,"Familial exudative vitreoretinopathy (FEVR) is primarily associated with mutations in genes involved in the development of the retinal vasculature. Key genes include:
+
+1. **FZD4** (Frizzled Class Receptor 4)
+2. **LRP5** (Low-Density Lipoprotein Receptor-Related Protein 5)
+3. **NDP** (Norrie Disease Protein)
+4. **TSPAN12** (Tetraspanin 12)
+5. **RPE65** (Retinal Pigment Epithelium 65 kDa Protein)
+
+These mutations can disrupt normal angiogenesis and lead to the characteristic retinal changes seen in FEVR.",3848,ok,
+medquestions-500-0132,gpt-4o-mini,What are the treatments for Crouzon syndrome ?,"Treatments for Crouzon syndrome typically include:
+
+1. **Surgery**: To correct skull shape and facial abnormalities, often involving craniosynostosis repair.
+2. **Orthodontics**: To address dental and jaw alignment issues.
+3. **Hearing aids**: For hearing loss management.
+4. **Speech therapy**: To assist with communication difficulties.
+5. **Regular monitoring**: For associated conditions and developmental progress.
+
+Treatment plans are individualized based on the severity of symptoms.",2421,ok,
+medquestions-500-0133,gpt-4o-mini,What are the treatments for Nephrocalcinosis ?,"Treatment for nephrocalcinosis focuses on addressing the underlying cause and may include:
+
+1. **Hydration**: Increasing fluid intake to dilute urine.
+2. **Dietary modifications**: Reducing calcium and oxalate intake if necessary.
+3. **Medications**: Thiazide diuretics to reduce calcium excretion, or potassium citrate to prevent stone formation.
+4. **Management of underlying conditions**: Treating hyperparathyroidism, renal tubular acidosis, or other contributing disorders.
+
+Consult a healthcare provider for personalized treatment options.",2323,ok,
+medquestions-500-0134,gpt-4o-mini,What are the symptoms of Nevoid basal cell carcinoma syndrome ?,"Symptoms of Nevoid Basal Cell Carcinoma Syndrome (NBCCS) include:
+
+1. Multiple basal cell carcinomas (BCCs) at a young age.
+2. Jaw cysts (odontogenic keratocysts).
+3. Skeletal abnormalities (e.g., scoliosis, bifid ribs).
+4. Palmar or plantar pits.
+5. Calcification of the falx cerebri.
+6. Increased risk of other tumors.
+7. Facial features such as a broad forehead and hypertelorism.
+
+Consult a healthcare professional for diagnosis and management.",3381,ok,
+medquestions-500-0135,gpt-4o-mini,How many people are affected by congenital hyperinsulinism ?,"Congenital hyperinsulinism affects approximately 1 in 30,000 to 50,000 live births.",862,ok,
+medquestions-500-0136,gpt-4o-mini,What are the genetic changes related to cap myopathy ?,"Cap myopathy is primarily associated with mutations in the **CAPN3** gene, which encodes the calpain-3 protein. Other genetic changes may involve mutations in genes related to muscle function, such as **DYSF** (dysferlin) and **SGCA** (sarcoglycan alpha), but CAPN3 mutations are the most common cause. These mutations lead to muscle weakness and structural abnormalities in muscle fibers.",2351,ok,
+medquestions-500-0137,gpt-4o-mini,What are the symptoms of Autosomal dominant neuronal ceroid lipofuscinosis 4B ?,"Symptoms of Autosomal Dominant Neuronal Ceroid Lipofuscinosis 4B (CLN4B) may include:
+
+- Progressive vision loss
+- Seizures
+- Cognitive decline
+- Motor difficulties
+- Behavioral changes
+- Speech and language impairment
+
+Symptoms typically appear in childhood or early adulthood and worsen over time.",2269,ok,
+medquestions-500-0138,gpt-4o-mini,What is (are) Drug Abuse ?,"Drug abuse refers to the harmful or hazardous use of psychoactive substances, including alcohol and illicit drugs, leading to significant adverse consequences in various aspects of life, such as health, relationships, and social functioning. It often involves compulsive behavior and a lack of control over substance use.",1609,ok,
+medquestions-500-0139,gpt-4o-mini,What are the symptoms of Respiratory Failure ?,"Symptoms of respiratory failure include:
+
+1. Shortness of breath or difficulty breathing
+2. Rapid or shallow breathing
+3. Confusion or altered mental status
+4. Cyanosis (bluish color of lips or face)
+5. Fatigue or weakness
+6. Increased heart rate
+7. Use of accessory muscles for breathing
+
+Seek medical attention if these symptoms occur.",2392,ok,
+medquestions-500-0140,gpt-4o-mini,What is (are) Synovial Chondromatosis ?,"Synovial chondromatosis is a benign condition characterized by the formation of cartilaginous nodules within the synovial membrane of joints, particularly the knee. It can lead to joint pain, swelling, and reduced mobility. The condition may be primary (idiopathic) or secondary to other joint diseases. Treatment often involves surgical removal of the nodules.",2479,ok,
+medquestions-500-0141,gpt-4o-mini,What are the treatments for Jervell and Lange-Nielsen syndrome ?,"Treatment for Jervell and Lange-Nielsen syndrome primarily focuses on managing symptoms and preventing complications. Key approaches include:
+
+1. **Beta-blockers**: To reduce the risk of arrhythmias.
+2. **Implantable cardioverter-defibrillator (ICD)**: For patients at high risk of life-threatening arrhythmias.
+3. **Avoidance of triggers**: Such as strenuous exercise and certain medications that can exacerbate arrhythmias.
+4. **Regular monitoring**: Cardiac evaluations to assess heart function and rhythm.
+
+Consultation with a cardiologist and genetic counseling is also recommended.",2731,ok,
+medquestions-500-0142,gpt-4o-mini,Is Glucose-6-phosphate dehydrogenase deficiency inherited ?,"Yes, glucose-6-phosphate dehydrogenase (G6PD) deficiency is inherited in an X-linked recessive manner.",1790,ok,
+medquestions-500-0143,gpt-4o-mini,Is permanent neonatal diabetes mellitus inherited ?,"Yes, permanent neonatal diabetes mellitus can be inherited, often due to mutations in specific genes. It typically presents in the first six months of life and can be associated with genetic factors.",1435,ok,
+medquestions-500-0144,gpt-4o-mini,What is (are) Hajdu-Cheney syndrome ?,"Hajdu-Cheney syndrome is a rare genetic disorder characterized by skeletal abnormalities, including acroosteolysis (bone resorption in the fingers and toes), short stature, and distinctive facial features. It is caused by mutations in the NOTCH2 gene and can lead to various complications, including cardiovascular issues and dental problems.",2192,ok,
+medquestions-500-0145,gpt-4o-mini,What are the genetic changes related to aminoacylase 1 deficiency ?,"Aminoacylase 1 deficiency is primarily caused by mutations in the ACY1 gene, which encodes the enzyme aminoacylase 1. These mutations can lead to a loss of enzyme function, resulting in the accumulation of certain amino acids and related metabolites. The specific genetic changes can include point mutations, deletions, or insertions in the ACY1 gene.",1974,ok,
+medquestions-500-0146,gpt-4o-mini,How to diagnose Thymoma and Thymic Carcinoma ?,"Thymoma and thymic carcinoma are diagnosed through a combination of imaging studies and histopathological examination. Key steps include:
+
+1. **Imaging Studies**: 
+   - Chest X-ray
+   - CT scan of the chest to assess the size and extent of the tumor.
+
+2. **Biopsy**: 
+   - Needle biopsy or surgical resection to obtain tissue samples for histological analysis.
+
+3. **Histopathological Examination**: 
+   - Microscopic evaluation of the tissue to differentiate between thymoma and thymic carcinoma based on cellular characteristics.
+
+4. **Immunohistochemistry**: 
+   - Additional tests may be performed to identify specific markers that help in classification.
+
+5. **Clinical Evaluation**: 
+   - Assessment of symptoms and any associated conditions, such as myasthenia gravis.
+
+Consultation with a specialist, such as a thoracic surgeon or oncologist, is often necessary for accurate diagnosis and treatment planning.",4448,ok,
+medquestions-500-0147,gpt-4o-mini,What is (are) High Blood Pressure and Kidney Disease ?,"High blood pressure, or hypertension, is a condition where the force of the blood against the artery walls is consistently too high, which can lead to heart disease and other health issues. 
+
+Kidney disease refers to a range of conditions that affect kidney function, leading to the kidneys' inability to filter waste and excess fluids from the blood effectively. High blood pressure can cause or worsen kidney disease, and vice versa, creating a harmful cycle.",2148,ok,
+medquestions-500-0148,gpt-4o-mini,What causes Pachygyria ?,"Pachygyria is caused by abnormal brain development during fetal growth, often due to genetic mutations, disruptions in neuronal migration, or environmental factors such as infections or exposure to toxins during pregnancy. It is associated with various genetic syndromes and can lead to neurological deficits.",1632,ok,
+medquestions-500-0149,gpt-4o-mini,What is (are) Split hand foot malformation ?,"Split hand-foot malformation (SHFM) is a congenital condition characterized by the absence or malformation of bones in the hands and feet, leading to a split appearance. It can involve varying degrees of limb deformities, including missing digits or fusion of fingers and toes. SHFM can be associated with genetic factors and may occur as an isolated condition or as part of a syndrome.",2087,ok,
