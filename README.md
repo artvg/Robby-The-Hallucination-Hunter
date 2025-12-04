@@ -1,40 +1,65 @@
-# RTHH *(Phase 1)*  
-Reducing Medical Hallucinations in Large Language Models
+# RTHH: Robby The Hallucination Hunter
+Evaluating and Reducing Medical Hallucinations in Large Language Models
 
-Project Summary
+**Project Summary**
 
-RTHH (Surprise name) explores how large language models hallucinate in medical question and whether prompt design can reduce those errors.
+RTHH explores how large language models hallucinate when answering medical questions and whether structured prompt design can reduce those errors.
+The project evaluates two models — Gemini and ChatGPT, in two stages:
+- Phase I: Baseline responses using simple prompts
+- Phase II: Structured prompting using four tones to test whether tone reduces hallucinations
 
-Current Phase - Phase 1: Cloud Model Testing
+The full research study, results, and figures are included in the project's final paper.
 
-Originally, the plan was to build and test the hallucination detection pipeline locally using Ollama (DeepSeek & Gemma). While the local setup was successfully implemented, it quickly became too heavy and unstable for my current hardware. As a result, all Ollama components were removed and the project shifted dirrecly to cloud based APIs, which provide faster, more reliable testing.
-
-Present Focus
-
-Phase 1 now centers on running and evaluating the pipeline using Gemini and ChatGPT. I am currently loading the medical dataset, labeling responses, and preparing to calculate hallucination rates across these two models.
-
-Upcoming - Phase 2: Prompt Engineering
-
-Phase 2 will focus on experimenting with prompt re phrasing and structured prompting to test whether careful prompt design can reduce hallucination frequency in medical responses. This keeps the original goal of the project which was improving factual reliability while remaining realistic within time and resource limits.
-
-Tools & Tech
+**Tools & Tech**
 - Language: Python
-- Libraries: PyTorch, Transformers, Pandas, NumPy, Matplotlib, scikit-learn
-- Current Models: Gemini (API), ChatGPT (API)
-- Discontinued: DeepSeek & Gemma (Ollama was removed due to hardware limits), and Grok (API) & Copilot(API) (due to time remaining on project).
-- Dataset: https://huggingface.co/datasets/curaihealth/medical_questions_pairs
+- Libraries: Pandas, NumPy, Matplotlib, SentenceTransformers
+- Models: Gemini (API), ChatGPT (API)
+- Embedding Model: MiniLM-L6
+- Datasets:
+    - CuraiHealth Medical Questions (used only for initial pipeline testing)
+    - MedQuad Medical QA (primary dataset for both phases)
 
-Project Status
+**What’s Inside the Repository**
 
-Phase 1: Cloud based testing and dataset processing using Gemini & ChatGPT (In progress)
+**Documents Folder**
 
-Phase 2: Prompt engineering experiments for hallucination reduction (Upcoming)
+Contains all final written materials for RTHH:
+- Tecnical Report - the full research paper (Abstract, Methods, Results, Conclusion, IEEE citations)
+- Structural Prompts - the four structured prompts used in Phase II (Professional Doctor, Medical Specialist, Friendly/Respectful, Rude/Direct)
 
-Repository Notes
-- This repo is under active development.
-- Ollama implementation has been aborted due to performance limitations.
-- Gemini is fully connected and processing the dataset; ChatGPT integration is validated (payment issue pending).
-- Grok and Copilot were removed from scope to prioritize completing the full experiment with the two stable models.
-- Future commits will include hallucination scoring modules, prompt testing scripts, and final analysis notebooks.
+These allow anyone to fully understand and replicate the experiment.
 
-Stay tuned RTHH still has a surprise waiting for the finale!!!
+**Phase I Folder**
+
+Materials related to baseline testing:
+- Code used to send raw questions with simple prompts
+- Manual labels (correct, incorrect, hallucinated)
+- Embedding similarity calculations
+- CSVs used to generate the baseline diagram
+
+This phase shows how the models behave without guidance.
+
+**Phase II Folder**
+
+Materials from the structured prompting experiments:
+- Code for evaluating the four prompt tones
+- Model outputs for each tone
+- Embedding similarity CSVs
+- Result files used for the ChatGPT and Gemini prompt tone diagrams
+
+This phase measures how prompt tone affects hallucination rates.
+
+**Presentation Folder**
+
+Contains the final presentation used for the course:
+- Slide Show - overview of the problem, methods, results, and key findings
+
+**Repository Notes**
+
+- Ollama (DeepSeek, Gemma) was removed due to hardware limitations
+- Only Gemini and ChatGPT were used in the final study
+- All citations appear inside the paper
+
+**Thank You**
+
+Thank you for taking the time to explore this project. I hope the findings and materials in this repository are helpful for anyone interested in medical AI safety or hallucination research.
