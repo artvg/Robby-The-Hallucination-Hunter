@@ -1,5 +1,0 @@
-secret.env
-*.env
-.env
-.ipynb_checkpoints/
-__pycache__/

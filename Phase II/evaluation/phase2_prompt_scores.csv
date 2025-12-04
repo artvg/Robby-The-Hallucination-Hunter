@@ -1,0 +1,9 @@
+model_label,semantic_accuracy
+gpt_rude,0.58
+gpt_friendly,0.5533333333333333
+gpt_professional,0.5
+gemini_professional,0.49333333333333335
+gemini_rude,0.47333333333333333
+gpt_specialist,0.4666666666666667
+gemini_friendly,0.46
+gemini_specialist,0.44
